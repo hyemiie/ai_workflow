@@ -118,6 +118,6 @@ docker-compose down -v
 | Vector DB   | ChromaDB                          |
 | Embeddings  | OpenAI / Gemini                   |
 | LLM         | OpenAI GPT, Google Gemini         |
-| Web Search  | SerpAPI, Brave Search             |
+| Web Search  | SerpAPI, Brave Search, Tavily     |
 | PDF Extract | PyMuPDF                           |
 | Container   | Docker, Docker Compose            |
