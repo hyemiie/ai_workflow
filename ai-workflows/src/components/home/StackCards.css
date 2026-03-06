@@ -1,0 +1,7 @@
+.stack-card { background: var(--white); border: 1px solid var(--border); border-radius: var(--r); padding: 18px 18px 14px; display: flex; flex-direction: column; min-height: 116px; box-shadow: var(--sh-sm); transition: box-shadow var(--tr), border-color var(--tr); }
+.stack-card:hover { box-shadow: var(--sh-md); border-color: var(--border-2); }
+.stack-card-name { font-size: 14px; font-weight: 600; margin-bottom: 5px; }
+.stack-card-desc { font-size: 12px; color: var(--text-3); flex: 1; line-height: 1.5; }
+.stack-card-footer { margin-top: 14px; }
+.edit-stack-btn { display: inline-flex; align-items: center; gap: 5px; padding: 5px 11px; border: 1px solid var(--border-2); border-radius: 5px; background: transparent; color: var(--text-2); font-size: 12px; font-weight: 500; cursor: pointer; transition: var(--tr); }
+.edit-stack-btn:hover { background: var(--bg); color: var(--text); }

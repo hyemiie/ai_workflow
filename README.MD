@@ -7,9 +7,9 @@ A No-Code/Low-Code platform to visually build and run AI workflows using drag-an
 ## Project Structure
 
 ```
-genai-stack/
-├── backend/          # FastAPI backend
-├── frontend/         # React frontend
+AIWORKFLOWS/
+├── WorkflowServer/          # FastAPI backend
+├── ai-workflows/         # React frontend
 ├── docker-compose.yml
 └── .env              # Root env for docker-compose
 ```
